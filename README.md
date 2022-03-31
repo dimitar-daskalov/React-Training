@@ -10,11 +10,18 @@ You can find all the instructions in the link below:
 
 https://github.com/mosh-hamedani/vidly-api-node
 
+
+### Clone the project
+
+git clone https://github.com/dimitar-daskalov/React-Training.git
+
+
 ### Install the Dependencies
 
 From the project folder, install the dependencies:
 
     npm i
+
 
 ### Start the Server
 
