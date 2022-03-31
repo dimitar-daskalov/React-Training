@@ -13,8 +13,9 @@ https://github.com/mosh-hamedani/vidly-api-node
 
 ### Clone the project
 
+```bash
 git clone https://github.com/dimitar-daskalov/React-Training.git
-
+```
 
 ### Install the Dependencies
 
