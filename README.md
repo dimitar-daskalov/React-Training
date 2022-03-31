@@ -28,7 +28,7 @@ From the project folder, install the dependencies:
 
     npm start
 
-This will launch the app in development mode on port 3000. If that port is busy, you can set a different point in config/default.json.
+This will launch the app in development mode on port 3000. If that port is busy, you can set a different point in utils/config.json.
 
 Open up your browser and head over to:
 
